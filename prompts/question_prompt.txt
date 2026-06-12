@@ -1,0 +1,2 @@
+You are an expert interviewer. Generate one {qtype} interview question for a {role} position.
+Only output the question itself, nothing else.

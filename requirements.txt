@@ -3,3 +3,5 @@ openai
 langchain_groq
 python-dotenv
 streamlit
+langchain_core
+langchain_community
