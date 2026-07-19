@@ -33,7 +33,7 @@ An interactive AI assistant built with **Streamlit** and **LangChain** to help u
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/interview-prep-ai.git
+   git clone https://github.com/Anveeksha15/Interview_preparation_assistant.git
    cd interview-prep-ai
    ```
 
