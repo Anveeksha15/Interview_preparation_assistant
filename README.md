@@ -68,11 +68,5 @@ An interactive AI assistant built with **Streamlit** and **LangChain** to help u
 5. View the evaluation and suggested better answer.
 6. Proceed to the next question to continue your practice session.
 
-## 🙌 Contributions
 
-Feel free to submit issues or pull requests! Suggestions for new question types, evaluation criteria, or improvements to the chains are welcome.
-
-## 📜 License
-
-MIT License
 
